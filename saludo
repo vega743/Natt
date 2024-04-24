@@ -1,0 +1,2 @@
+nombre= Nati
+print('Hola', nombre)
