@@ -1,2 +1,2 @@
-nombre= Nati
+nombre= Natalia
 print('Hola', nombre)
